@@ -1,0 +1,60 @@
+<style>
+   body {
+       background-color: red;
+       color: purple;
+       margin: 0;
+   }
+   h1{
+       color: blue;
+       text-align: center;
+       text-transform: uppercase;
+   }
+   h2{
+       color: green;
+       text-align: left;
+   }
+   h6{
+       color: orange;
+       text-align: right;
+   }
+   p{
+       color: black;
+       text-align: justify;
+   }
+   #foto_html{
+       width: 50px;
+   }
+   .destaque{
+       background-color: rgb(103, 125, 198);
+       color: rgb(245, 85, 27);
+       text-align: center;
+       padding: 20px;
+       margin-bottom: 20px;
+   }
+   nav li{
+       display: inline;
+       margin-right: 20px;
+       color: rgb(245, 85, 27);
+       font-weight: bold;
+       border: 2px solid rgb(245, 85, 27);
+       padding: 5px;
+   }
+   nav{
+       float: right;
+   }
+   header{
+       background-color: rgb(103, 125, 198);
+       color: rgb(245, 85, 27);
+       padding: 20px;
+       margin-bottom: 20px;
+   }
+   main{
+       margin: 20px;
+   }
+   footer{
+       background-color: rgb(103, 125, 198);
+       color: rgb(245, 85, 27);
+       padding: 20px;
+       margin-top: 20px;
+   }
+</style>
